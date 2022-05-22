@@ -6,9 +6,9 @@
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/marykasp)](https://badges.pufler.dev)
 
 
-- 🔭 I’m currently working on: **final version of my portfolio**
+- 🔭 I’m currently working on: **final version of my portfolio**, **movie app**
 
-- 🌱 I’m currently learning: **async JS, Ruby**
+- 🌱 I’m currently learning: **async JS, React, Ruby**
 
 -  🔖 I'm currently learning code: **Skillcrush**, **Launch School**
 
