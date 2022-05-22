@@ -1,5 +1,5 @@
-<img src="header.png" alt="marykasp">
-<h4 align="center">I am a student developer from Chicago seeking full time employment as a front end developer</h4>
+<!-- <img src="header.png" alt="marykasp">
+<h4 align="center">I am a student developer from Chicago seeking full time employment as a front end developer</h4> -->
 
   [![Years Badge](https://badges.pufler.dev/years/marykasp)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
