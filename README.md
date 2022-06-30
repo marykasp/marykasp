@@ -6,11 +6,11 @@
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/marykasp)](https://badges.pufler.dev)
 
 
-- 🔭 I’m currently working on: **final version of my portfolio**, **movie app**
+- 🔭 I’m currently working on: **final version of my portfolio**, **prepping for technical interviews**
 
-- 🌱 I’m currently learning: **async JS, React, Ruby**
+- 🌱 I’m currently learning: **Reviewing React** **Data Structures**
 
--  🔖 I'm currently learning code: **Skillcrush**, **Launch School**
+-  🔖 I'm currently learning code: **Skillcrush**, **Launch School** (on pause)
 
 - 📝 I regularly write articles on [https://marykasparian.com](https://marykasparian.com)
 
