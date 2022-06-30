@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **final version of my portfolio**, **prepping for technical interviews**
 
-- 🌱 I’m currently learning: **Reviewing React** **Data Structures**
+- 🌱 I’m currently learning: [**Reviewing React**, **Data Structures**, **Advanced JS concepts**]
 
 -  🔖 I'm currently learning code: **Skillcrush**, **Launch School** (on pause)
 
