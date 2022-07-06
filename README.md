@@ -1,25 +1,25 @@
 <!-- <img src="header.png" alt="marykasp">
 <h4 align="center">I am a student developer from Chicago seeking full time employment as a front end developer</h4> -->
+## Welcome
+Hello! My name is Mary and I am a current student developer from the Chicago area seeking full time employment as a front end developer. Here you will find all the open source code I've written including my [portfolio](https://github.com/marykasp/marykasp-portfolio), [blog](https://github.com/marykasp/maryk-dev), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasparian.com
 
-  [![Years Badge](https://badges.pufler.dev/years/marykasp)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/marykasp)](https://badges.pufler.dev)
+  
+- 🔭 I’m currently working on: 
+    -  **final version of my portfolio**
+    -  **color picker app**
+    -  **prepping for technical interviews**
 
-
-- 🔭 I’m currently working on: **final version of my portfolio**, **color picker app***, **prepping for technical interviews**
-
-- 🌱 I’m currently learning: [**React**, **Data Structures**, **Advanced JS concepts**]
+- 🌱 I’m currently learning/working in: 
+  -   **React**
+  -   **TypeScript**
 
 -  🔖 I'm currently learning code: **Skillcrush**, **Launch School** 
 
 - 📝 I regularly write articles on [https://marykasparian.com](https://marykasparian.com)
 
-- 📫 How to reach me **kasparian.mary@gmail.com**
-
 - ⚡ Fun fact **I love to tap dance**
 
-## Welcome
-Here you will find all the open source code I've written including my [portfolio]([marykasp-portfolio](https://github.com/marykasp/marykasp-portfolio)), [blog](https://github.com/marykasp/maryk-dev), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasparian.com
 
 <h2 align="left">Connect with me:</h2>
 
