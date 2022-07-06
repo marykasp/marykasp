@@ -6,11 +6,11 @@
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/marykasp)](https://badges.pufler.dev)
 
 
-- 🔭 I’m currently working on: **final version of my portfolio**, **prepping for technical interviews**
+- 🔭 I’m currently working on: **final version of my portfolio**, **color picker app***, **prepping for technical interviews**
 
-- 🌱 I’m currently learning: [**Reviewing React**, **Data Structures**, **Advanced JS concepts**]
+- 🌱 I’m currently learning: [**React**, **Data Structures**, **Advanced JS concepts**]
 
--  🔖 I'm currently learning code: **Skillcrush**, **Launch School** (on pause)
+-  🔖 I'm currently learning code: **Skillcrush**, **Launch School** 
 
 - 📝 I regularly write articles on [https://marykasparian.com](https://marykasparian.com)
 
@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I love to tap dance**
 
 ## Welcome
-Here you will find all the open source code I've written including my [portfolio](./marykasp-portfolio), [blog](./maryk-dev], and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasparian.com
+Here you will find all the open source code I've written including my [portfolio]([marykasp-portfolio](https://github.com/marykasp/marykasp-portfolio)), [blog](https://github.com/marykasp/maryk-dev), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasparian.com
 
 <h2 align="left">Connect with me:</h2>
 
