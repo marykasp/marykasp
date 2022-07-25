@@ -7,12 +7,10 @@ Hello! My name is Mary and I am a current student developer from the Chicago are
   
 - 🔭 I’m currently working on: 
     -  **final version of my portfolio**
-    -  **color picker app**
     -  **prepping for technical interviews**
 
 - 🌱 I’m currently learning/working in: 
   -   **React**
-  -   **TypeScript**
 
 -  🔖 I'm currently learning code: **Skillcrush**, **Launch School** 
 
