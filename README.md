@@ -6,15 +6,16 @@ Hello! My name is Mary and I am a current student developer from the Chicago are
   [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
   
 - 🔭 I’m currently working on: 
-    -  **final version of my portfolio**
+    -  **react version of portfolio**
     -  **prepping for technical interviews**
 
 - 🌱 I’m currently learning/working in: 
   -   **React**
+  -   **Python**
 
--  🔖 I'm currently learning code: **Skillcrush**, **Launch School** 
+-  🔖 I'm currently learning code: **Skillcrush**(completed), **Launch School**, **Codeacademy**, **online tutortials**
 
-- 📝 I regularly write articles on [https://marykasparian.com](https://marykasparian.com)
+- 📝 Going to work on redoing my blog design: [https://marykasparian.com](https://marykasparian.com)
 
 - ⚡ Fun fact **I love to tap dance**
 
