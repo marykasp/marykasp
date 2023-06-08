@@ -4,14 +4,10 @@
 Hello! My name is Mary and I am a current student developer from the Chicago area seeking full time employment as a front end developer. Here you will find all the open source code I've written including my [portfolio](https://github.com/marykasp/marykasp-portfolio), [blog](https://github.com/marykasp/maryk-dev), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasp.com
 
   [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
-  
-- 🔭 I’m currently working on: 
-    -  **react version of portfolio**
-    -  **prepping for technical interviews**
 
 - 🌱 I’m currently learning/working in: 
-  -   **React**
-  -   **Python**
+  -   **Elixir**
+  -   **Phoenix**
 
 -  🔖 I'm currently learning code: **Skillcrush**(completed), **Launch School**, **Codeacademy**, **online tutortials**
 
