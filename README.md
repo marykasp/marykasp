@@ -1,7 +1,7 @@
 <!-- <img src="header.png" alt="marykasp">
 <h4 align="center">I am a student developer from Chicago seeking full time employment as a front end developer</h4> -->
 ## Welcome
-Hello! My name is Mary and I am a current student developer from the Chicago area seeking full time employment as a front end developer. Here you will find all the open source code I've written including my [portfolio](https://github.com/marykasp/marykasp-portfolio), [blog](https://github.com/marykasp/maryk-dev), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasp.com
+Hello! My name is Mary and I am a current student developer from the Chicago area seeking full time employment as a front end developer. Here you will find all the open source code I've written including my [portfolio](https://github.com/marykasp/marykasp-react-v1), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting https://marykasp.com
 
   [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
 
@@ -11,7 +11,7 @@ Hello! My name is Mary and I am a current student developer from the Chicago are
 
 -  🔖 I'm currently learning code: **Skillcrush**(completed), **Launch School**, **Codeacademy**, **online tutortials**
 
-- 📝 Going to work on redoing my blog design: [https://marykasparian.com](https://marykasparian.com)
+- 📝 Completing my redesign of my portfolio using React: [https://marykasparian.com](https://marykasparian.com)
 
 - ⚡ Fun fact **I love to tap dance**
 
