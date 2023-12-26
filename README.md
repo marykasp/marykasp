@@ -6,8 +6,9 @@ Hello! My name is Mary and I am a current student developer from the Chicago are
   [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
 
 - 🌱 I’m currently learning/working in: 
-  -   **Elixir**
-  -   **Phoenix**
+  -   **Elixir** / **Phoenix**
+  -   **Typescript**
+  -   **React**
 
 -  🔖 I'm currently learning code: **Skillcrush**(completed), **Launch School**, **Codeacademy**, **online tutortials**
 
