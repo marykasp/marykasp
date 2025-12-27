@@ -1,22 +1,86 @@
 <!-- <img src="header.png" alt="marykasp">
 <h4 align="center">I am a student developer from Chicago seeking full time employment as a front end developer</h4> -->
 ## Welcome
-Hello! My name is Mary and I am a current associate developer from the Chicago area seeking full time employment as a front end developer. Here you will find all the open source code I've written including my [portfolio](https://github.com/marykasp/marykasp-react-v1), and fun projects I have worked on to practice web development. You can learn more about me and how to contact me by visiting my new [React personal portfolio](https://marykasparian.com)
+# Hi, I'm Mary 👋
 
-  [![Repos Badge](https://badges.pufler.dev/repos/marykasp)](https://badges.pufler.dev)
+Frontend-focused engineer with full-stack experience, currently deepening my expertise in **modern React, Next.js, and backend development**.
 
-- 🌱 I’m currently learning/working in: 
-  -   **NextJS**
-  -   **Typescript**
-  -   **React**
+I enjoy building clean, user-focused interfaces and pairing them with well-structured, maintainable APIs.
 
--  🔖 I'm currently learning code: **Skillcrush**(completed), **Launch School**, **online tutortials**
+---
 
-- 📝 Completed the redesign of my portfolio: [https://marykasparian.com](https://marykasparian.com)
+## 🔭 What I’m Focused On Right Now
 
-- Currently working on NextJS full stack projects: **Developer Ticket Tracking**, **Cancer Treatment AI**
+### ⚛️ Frontend
+- Learning **React 19** patterns and best practices  
+- Working through **Joy of React (Josh Comeau)**  
+- Building with **Next.js 15** (App Router, Server Components)
 
-- ⚡ Fun fact **I love to tap dance**
+### 🛠 Backend
+- Strengthening backend fundamentals with **Node.js & Express**
+- Building **REST APIs** with proper architecture
+- Learning **SQL/PostgreSQL**, authentication, and API design
+
+---
+
+## 🧠 Currently Learning
+- Advanced React component patterns
+- Server-side rendering & data fetching in Next.js
+- Backend architecture & API design
+- Database modeling and integration
+- Full-stack workflows (React + Node)
+
+---
+## 📁 Active Learning Repositories
+
+### ⚛️ Joy of React
+- 📘 **Joy of React Exercises & Notes**  
+  https://github.com/marykasp/joy-of-react
+
+*(Component patterns, hooks, accessibility, modern React concepts)*
+
+### 🛠 Backend Learning
+- 📘 **Backend Learning (Scrimba + Educative)**  
+  https://github.com/marykasp/scrimba-backend-learning
+
+*(Node.js, Express, databases, REST APIs, full-stack projects)*
+
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- JavaScript / TypeScript
+- HTML, CSS
+
+**Backend**
+- Node.js
+- Express
+- REST APIs
+
+**Databases**
+- PostgreSQL (learning)
+- MongoDB (exposure)
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 🎯 Goals
+- Build production-ready full-stack applications
+- Strengthen backend problem-solving and architecture skills
+- Create portfolio projects that reflect real-world workflows
+- Transition into a backend-strong full-stack role
+
+---
+
+📫 Feel free to explore my repositories or connect — I’m always learning and building.
 
 
 <h2 align="left">Connect with me:</h2>
